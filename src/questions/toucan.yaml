@@ -1,0 +1,221 @@
+- uuid: c3053fde-1139-4ac0-9e8a-e93e258674fa
+  type: SingleChoice
+  content: What is the main issue with the current carbon market?
+  hint: NoHint
+  explanation:  Lack of transparency, difficulty in trading and evaluating the value of credits, middlemen who make the process more muddled and the different standards of verification causing confusion are some of the issues with the current carbon market.
+  answerKeys:
+    - D
+  difficultyLevel: "Low"
+  choices:
+    - content: The fair price of the credits are largely unknown
+      key: A
+      
+    - content:  Difficult to categorize the credits and trade in the market
+      key: B
+      
+    - content: Lack of transparency in dealings and holdings of these credits
+      key: C
+      
+    - content: All of these
+      key: D
+      
+
+
+- uuid: c3f0ce1a-6f93-4bba-9b21-06d694ac1bda
+  type: SingleChoice
+  content: What can be done to solve the problems of the current carbon credit market?
+  hint: NoHint
+  explanation: |
+   Organizations can 
+   Tokenize these carbon credits issued by these regulatory bodies, and come up with a standard for the tokenization of carbon credits, and
+   Come up with a way to list these carbon credits on the market considering their inherent differences in value and utility. 
+  answerKeys:
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: Tokenize carbon credits on the blockchain to improve transparency 
+      key: A
+      
+    - content: Tokenize carbon credits so that they can be traded in markets, and come up with a way to overcome the issue of variation in the value of different carbon credits.
+      key: B
+      
+    - content: Levy a trading fee on carbon credits trading  
+      key: C
+      
+    - content: Both A and B
+      key: D
+
+- uuid: 9042f398-cf3f-4923-8161-99adf489ada8
+  type: MultipleChoice
+  content: Toucan protocol deals with which of these
+  hint: NoHint
+  explanation: The Toucan protocol is a Web3 infrastructure supporting Regenerative Finance (ReFi).
+  answerKeys:
+    - A
+  difficultyLevel: "Low"
+  choices:
+    - content: Regenerative Finance
+      key: A
+      
+    - content: Degenerative Finance
+      key: B
+    - content: NFT marketplace for modern art
+      key: C
+    - content: Both A and C
+      key: D
+
+
+      
+- uuid: f61ab3f6-3e75-4dc4-aa69-ad646632ec65
+  type: MultipleChoice
+  content: What does Toucan protocol do to handle tokenization of carbon credits present in the source registry?
+  hint: NoHint
+  explanation: Toucan brings the carbon credits from the source registry onto the blockchain using something called Carbon Bridge. It is a one way bridge which can transfer the credits from off-chain to on-chain and not vice versa, meaning bridging is an irreversible process.
+  answerKeys:
+    - C
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: The credits are sent over by a bot called Carbon bot
+      key: A
+      
+    - content: The credits are kept in active state and sent on-chain using Carbon bridge
+      key: B
+      
+    - content: The credits are “retired” on the source registry along with an information about the BatchNFT which will point to the on-chain credits 
+      key: C
+      
+    - content: A one way bridge called Carbon bridge is used to transfer credits from the source registry to the toucan protocol on-chain.
+      key: D
+
+      
+- uuid: 6af9e9c7-40aa-43ed-a1af-bb20ab814062
+  type: SingleChoice
+  content: Why do people buy carbon credit?
+  hint: NoHint
+  explanation: Companies emit green house gases during their production. While some part of these emissions is avoidable, other parts are not. So, for the companies to continue working while keeping an environment friendly profile and to adhere to government norms, they pay another entity to remove or reduce the carbon that would be emitted in the atmosphere. This payment is done in terms of units called carbon credits.
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: In order to offset the unavoidable emissions that an entity produces, to be more environment friendly and adhere to government norms
+      key: A
+      
+    - content: To act as a pass to pollute more than their specified norms
+      key: B
+      
+    - content: Carbon credits improve the credit score in traditional banks
+      key: C
+      
+    - content: Both A and C
+      key: D
+
+
+      
+
+
+- uuid: 944d1945-5dfa-4f63-90af-7d5df2deace1
+  type: SingleChoice
+  content: What is the inclusion criteria for a TCO2 token to be included in BCT pool?
+  hint: NoHint
+  explanation: Projects or vintages which use any of the Verra approved methodologies except “Decomposition of fluoroform (HFC-23) waste streams” can be listed in the BCT pool.               
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: Projects from Verra that exclude “Decomposition of fluoroform (HFC-23) waste streams”
+      key: A
+      
+    - content: Projects from Gold standard registry that include “Decomposition of fluoroform (HFC-23) waste streams”
+      key: B
+    - content: Projects from Gold standard registry that exclude “Decomposition of fluoroform (HFC-23) waste streams”
+      key: C
+    - content: Projects from Verra registry that include “Decomposition of fluoroform (HFC-23) waste streams”
+      key: D
+          
+
+
+- uuid: a13dd2c2-6d75-4ed5-a1f6-665977ea44e1
+  type: SingleChoice
+  content: Which of the following is part of the pool logic when a user attempts to deposit a token?
+  hint: NoHint
+  explanation: The two logic filters are, If the deposited token is a TCO2 token and If the deposited TCO2 token satisfies the pool requirements.
+  answerKeys:
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: Checking if the deposited token is TCO2 token
+      key: A
+      
+    - content: If the BatchNFT has a minimum of 10000 carbon credits or not
+      key: B
+      
+    - content: If the deposited TCO2 token satisfies the pool requirements of the pool that the user is attempting to deposit it at
+      key: C
+      
+    - content: Both A and C are true
+      key: D
+
+
+
+- uuid: 528b0d92-14c2-4f96-a645-1618a9d47b10
+  type: SingleChoice
+  content: When redeeming, the user can redeem by two ways, auto redeem and selectively redeem.
+  hint: NoHint
+  explanation: It's important to note that when redeeming, you can, Auto redeem (which gives you the lowest ranked TCO2s and Selectively redeem (which gives you the TCO2s you specify and costs a fee)
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: “True”
+      key: A
+      
+    - content: “False”
+      key: B
+      
+
+
+            
+- uuid: eaa355a8-91e4-4538-975c-8d093665707c
+  type: SingleChoice
+  content: Which of these are true regarding redeeming pool tokens?
+  hint: NoHint
+  explanation: The pool tokens can be redeemed automatically, in which case the user is given the lowest ranking TCO2. Else, the user can selectively redeem TCO2 of their will at some fee. The ranking of TCO2 tokens in the pool will be done by the team at Toucan.
+  answerKeys:
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: Auto redeem gives the user the lowest ranking TCO2 token in the pool
+      key: A
+      
+    - content: Selectively redeem lets the user choose the TCO2 token at a fee
+      key: B
+      
+    - content: The ranking of the TCO2 tokens in the pool is done by Toucan, in a centralized way
+      key: C
+      
+    - content: All of the above
+      key: D
+
+
+
+- uuid: 41524407-43db-4929-a066-50ac9a583dde
+  type: MultipleChoice
+  content: What is a Toucan pool party?
+  hint: NoHint
+  explanation: A Pool Party brings together a multidisciplinary set of stakeholders who represent different interest groups who want to see the pool succeed and thrive. Over the course of several weeks, they discuss gating criteria, threats, risks, and launch plan and alignment forms.
+  answerKeys:
+    - B
+  difficultyLevel: "Medium"
+  choices:
+    - content: After setting up a new pool, Toucan celebrates it by airdropping a new NFT from a series of NFTs called Toucan pool party
+      key: A
+      
+    - content: When setting up a new pool, Toucan brings together a “multidisciplinary set of stakeholders” who represent different interest groups to decide upon the requirements, exclusion criteria, risks, threats and more about the launch of a new Carbon pool
+      key: B
+      
+    - content: Users who have deposited their carbon credits in the Carbon pools are deemed to be a part of Toucan pool party
+      key: C
+      
+    - content: None of these
+      key: D

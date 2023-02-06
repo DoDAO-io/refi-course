@@ -23,6 +23,16 @@ topics:
       of a smart contract audit is to ensure that the contract is secure and
       reliable, and that it will function as intended when deployed on a
       blockchain network.
+  - key: toucan protocol
+    title: Toucan protocol
+    details: >+
+       The Toucan protocol is a Web3 infrastructure supporting Regenerative Finance (ReFi). 
+       Toucan protocol aims to tokenize carbon credits in order to solve the current issues 
+       with the carbon credit market and bring about a regenerative change in the DeFi ecosystem.
+      
+      
+    explanations: toucan.yaml
+    questions: toucan.yaml
 
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
