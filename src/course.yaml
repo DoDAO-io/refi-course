@@ -34,6 +34,18 @@ topics:
     explanations: toucan.yaml
     questions: toucan.yaml
 
+  - key: ecosapiens
+    title: Ecosapiens
+    details: >+
+       Ecosapiens is a Web3 NFT project that wraps carbon credits in NFTs in an effort to commoditize carbon credits and promote their 
+       general consumer use. As of now, Ecosapiens runs on the Ethereum blockchain which is famous for its NFT marketplaces. Ecosapiens makes 
+       it easy for consumers to buy carbon credits by offering carbon credits in the form of NFTs containing carbon credits which can be bought, 
+       resold, and even “evolved” into a rarer NFT. The NFTs are a humanoid combination of the flora and fauna of mother earth.
+      
+      
+    explanations: ecosapiens.yaml
+    questions: ecosapiens.yaml
+   
 courseAdmins:
   - '0x34d014758297c00fea49935fce172677904d51ef'
   - '0x2a6af0619be90d129ab0d70c10e25c097b6ec67d'
