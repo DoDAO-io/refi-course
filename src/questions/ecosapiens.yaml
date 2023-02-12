@@ -1,0 +1,224 @@
+- uuid: 043721b5-d33d-4c8d-9659-c98c6e1e7fd5
+  type: SingleChoice
+  content: What is Ecosapiens?
+  hint: NoHint
+  explanation: Ecosapiens is a Web3 NFT project that wraps carbon credits in NFTs in an effort to commoditize carbon credits and promote their general consumer use.
+  answerKeys:
+    - C
+  difficultyLevel: "Low"
+  choices:
+    - content: It is an NFT market place for independant artists
+      key: A
+      
+    - content:  It is a futures market which enables the user to fund on-going climate positive projects for a return in the future
+      key: B
+      
+    - content: It is a NFT project that wraps carbon credits in NFTs to commoditize carbon credits and make positive climate action easy
+      key: C
+      
+    - content: All of these
+      key: D
+      
+
+
+- uuid: 1abcc3fd-e6b9-4db5-a4ec-4044d48e428c
+  type: SingleChoice
+  content: What kind of carbon credits does Ecosapiens deal with?
+  hint: NoHint
+  explanation: Ecosapiens only offers carbon credits that are offered by carbon removal projects.
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: Ecosapiens only deals with carbon credits from carbon removal projects
+      key: A
+      
+    - content: Ecosapiens only deals with carbon credits from carbon reduction projects
+      key: B
+      
+    - content: Ecosapiens only deals with carbon credits from carbon protection projects
+      key: C
+      
+    - content: Both A and B
+      key: D
+
+- uuid: d4dea1de-3bfc-46ac-b874-70f50edffc99
+  type: SingleChoice
+  content: What is the carbon-to-NFT bridge?
+  hint: NoHint
+  explanation: The bridging protocol followed by Ecosapiens to convert carbon credits on-chain is called carbon-to-NFT bridge. 
+  answerKeys:
+    - A
+  difficultyLevel: "Low"
+  choices:
+    - content: The bridging protocol followed by Ecosapiens to convert carbon credits on-chain is called carbon-to-NFT bridge 
+      key: A
+    - content: Carbon-to-NFT bridge is a hardware component that allows the user to generate new NFTs
+      key: B
+    - content: It is an AI that automatically creates new NFTs and sells it in a market
+      key: C
+    - content: None of these
+      key: D
+
+
+      
+- uuid: 6b50abf6-3552-4dd2-ae66-dc6e40cbdde3
+  type: SingleChoice
+  content: |
+    "Ecosapien NFT is dynamic" why or why not?
+  hint: NoHint
+  explanation: |
+   The Ecosapien NFT comes with 16tons of carbon credits that is enough to offset the entire year of emissions of the average american. On top of this, the user can accumulate more carbon into their NFT using impact-2-earn module
+   and offset upto two years of emissions. Accumulating carbon credits in the NFT will "evolve" it into higher, rare forms. Thus, it is dynamic.
+  answerKeys:
+    - C
+  difficultyLevel: "Medium"
+  choices:
+    - content: The NFT stays in the same form, and is not dynamic
+      key: A
+      
+    - content: The NFT will "evolve" into rare forms as it ages
+      key: B
+      
+    - content: On sequestering more carbon into the NFT using impact-2-earn, the NFT evolves into rarer forms, making it dynamic
+      key: C
+      
+    - content: Both B and C
+      key: D
+
+      
+- uuid: fd02d60c-efa3-4300-a53b-c27d76bff43b
+  type: MultipleChoice
+  content: Which of these statements are true regarding impact-2-earn?
+  hint: NoHint
+  explanation: On sequestering carbon credits into the NFT, the Ecosapien will evolve into a rarer form, this evolution is called carbon infusion. The user must sequester 2 tons of carbon to level up from the current level upto a maximum of level 7. 
+  answerKeys:
+    - A
+    - B
+    - C
+  difficultyLevel: "Medium"
+  choices:
+    - content: The "evolution" of the Ecosapien on sequestering more carbon is called carbon infusion
+      key: A
+      
+    - content: The Ecosapien can be levelled up to level 7, each level up requires the user to sequester 2 tons of carbon
+      key: B
+      
+    - content: Each level up will cause the NFT avatar to grow some additional feature, making it more rate
+      key: C
+      
+    - content: Both A and C
+      key: D
+
+
+      
+
+
+- uuid: 578b2345-05b3-4efd-ae7d-a14b8123da6d
+  type: SingleChoice
+  content: Which of the following is true regarding the carbon credit capacity of an Ecosapien NFT?
+  hint: NoHint
+  explanation: |
+   At level 1, the NFT has 16 tons of carbon and can be increased to a maximum of 
+   28 tons via the impact-2-earn model.
+
+  answerKeys:
+    - C
+  difficultyLevel: "Medium"
+  choices:
+    - content: The NFT comes with a fixed, 16 tons of carbon credits that cannot be increased 
+      key: A
+    - content: At level 1, the NFT has 16 tons of carbon and can be increased to a maximum of 28 tons via the carbon-to-NFT model
+      key: B
+    - content: At level 1, the NFT has 16 tons of carbon and can be increased to a maximum of 28 tons via the impact-2-earn model
+      key: C
+    - content: At level 1, the NFT has 0 tons of carbon credits that can be increased to a maximum of 16 tons using the impact-2-earn model
+      key: D
+          
+
+
+- uuid: c6091577-0d7e-4376-b8cb-6cf1585699af
+  type: SingleChoice
+  content: How can the user verify the legitimacy of the carbon credits backing their Ecosapien?
+  hint: NoHint
+  explanation: Each Ecosapien has metadata about the project its carbon credits are derived from, including a carbon credit ceritificate signifying the credit's legitimacy. The certificate is given by a third party carbon rating agency.
+ 
+  answerKeys:
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: The carbon credits are reviewed by a private carbon rating agency, improving the standards of listing the carbon credits
+      key: A
+      
+    - content: Each Ecosapien has metadata about the project its carbon credits are derived from, including a carbon credit ceritificate signifying the credit's project, its rating and more
+      key: B
+      
+    - content: The legitimacy of the projects and their carbon credits cannot be verified
+      key: C
+      
+    - content: Both A and B are true
+      key: D
+
+
+
+- uuid: 464e69ea-979b-4ebd-b60c-b943d9e0de75
+  type: SingleChoice
+  content: On mint, the user is given a "chrysalis" which can be traded for a level 1 NFT a week later.
+  hint: NoHint
+  explanation: 350 pieces of “Chrysalis” (mentioned earlier as “level 0”) will be released on Feb 22, 2023. These chrysalis can be swapped for an Ecosapien a week later.
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: “True”
+      key: A
+      
+    - content: “False”
+      key: B
+      
+
+
+            
+- uuid: 866ca502-53d8-4058-a4f3-f988119d083e
+  type: SingleChoice
+  content: What is the principle behind the Ecosapien NFT offsetting 16 tons of carbon at level 1?
+  hint: NoHint
+  explanation: This is because the average emission of the average american is 16 tons of carbon. The Ecosapien offsets exactly that amount of carbon to make it one-click easy for the user to offset a year's worth of their emissions.
+  answerKeys:
+    - A
+  difficultyLevel: "Medium"
+  choices:
+    - content: 16 tons is the emission done by the average american in a year, by buying an Ecosapien the user can easily offset their year's worth of emissions in a one-click easy fashion
+      key: A
+      
+    - content: Beyond 16 tons, the cost of carbon credits increases beyond the average american's income
+      key: B
+      
+    - content: 16 tons is the emission done by the average american in a quarter, by buying an Ecosapien the user can easily offset a quarter's worth of emissions in a one-click easy fashion
+      key: C
+      
+    - content: All of the above
+      key: D
+
+
+
+- uuid: 7279865a-4532-4f5d-bcd3-16a55fafa159
+  type: SingleChoice
+  content: Which of these is true regarding payback-to-offset?
+  hint: NoHint
+  explanation: Each time the Ecosapien NFT is traded, new carbon credits are added to the number of carbon credits already backing the NFT, offsetting each transaction on the blockchain. This feature is called “payback-to-offset” and is triggered automatically each time the NFT is traded. The newly added carbon credits are paid for by a fixed percentage of royalty that comes with each NFT.
+  answerKeys:
+    - D
+  difficultyLevel: "Medium"
+  choices:
+    - content: Automatically, each time the NFT is traded, carbon credits are sequestered by the NFT, offsetting each of these transactions. This is called payback-to-offset
+      key: A
+      
+    - content: Each time the user buys a new Ecosapien NFT, the Ecosapien previously owned by the user is burnt. This is called payback-to-offset
+      key: B
+      
+    - content: The carbon credits bought are paid-for using a built in royalty mechanism that comes with the NFT
+      key: C
+      
+    - content: Both A and C
+      key: D
